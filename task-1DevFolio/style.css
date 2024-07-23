@@ -1,0 +1,49 @@
+body{
+    background-image: url(redbackground.jpg);
+}
+ li{ 
+    display: inline-block;
+    padding: 15px 15px;
+}
+.a1{
+    float: left;
+    color: white;
+}
+.a2{
+    float: right;
+    color: white;
+}
+.black{
+    color: black;
+}
+.b1{
+    width: 50%;
+    float: left;
+    color: white;
+}
+.b2{
+    width: 50%;
+    float: right;
+    position: absolute;
+    left: 35%;
+    top: 15%;
+}
+.hi{
+    margin-left: 41%;
+    height: 36rem;
+    width: 60%;
+}
+.para{
+    margin-left: 20%;
+    margin-top: 15%;
+    font-size: 25px;
+}
+button{
+    color: red;
+    height: 2rem;
+    width: 7rem;
+}
+button:hover{
+    background-color: red;
+    color: antiquewhite;
+}
